@@ -1,0 +1,7 @@
+age=18
+if age <20:
+  print("you can't vote!")
+else:
+  print("you can vote!")
+  print('done!')
+out put:you can't vote!
